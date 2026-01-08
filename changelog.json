@@ -1,29 +1,10 @@
 [
-  {
-    "version": "1.0.1",
-    "changes": [
-      "İlk sürüm yayınlandı",
-      "Kanal yönetimi eklendi",
-      "Reseller yönetimi eklendi",
-      "GUI düzenlendi"
-    ]
-  },
-    {
-    "version": "1.0.2",
-    "changes": [
-      "İlk sürüm yayınlandı",
-      "Kanal yönetimi eklendi",
-      "Reseller yönetimi eklendi",
-      "GUI düzenlendi"
-    ]
-  },
-      {
-    "version": "1.0.3",
-    "changes": [
-      "İlk sürüm yayınlandı",
-      "Kanal yönetimi eklendi",
-      "Reseller yönetimi eklendi",
-      "GUI düzenlendi"
-    ]
-  }
+{
+  "version": "1.0.3",
+  "changes": [
+    "GUI düzenlendi",
+    "Hatalar giderildi"
+  ]
+}
+
 ]
